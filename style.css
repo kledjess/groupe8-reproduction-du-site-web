@@ -1,0 +1,81 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    
+}
+ .menu {
+     background-color:#f2efef;
+     
+     
+ }
+ .text{
+    background-color:#f2efef;
+    font-size: 30px;
+    font-weight: bolder;
+    float: left;
+    color: #27c981;
+ }
+ background-color: #f2efef;
+ .image{
+     float: right;
+ }
+ .btn{
+     color: white;
+     background-color: #27c981;
+ }
+ .flex-container {
+    display: flex;
+    background-color: white;
+  }
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+
+    }
+    .center{
+        text-align: center;
+    }
+   
+#steps ul li
+{
+width: 300px;
+padding-top: 140px;
+text-align: center;
+margin-right: 10px;
+float: left;
+    margin-right: -190px;
+	margin-left: 205px;
+}
+
+#steps h4
+{
+text-transform: uppercase;
+margin-bottom: 20px;
+
+}
+#steps p
+{
+margin-bottom: 20px;
+}
+
+#steps1
+{
+background: url('service-1-1.png') no-repeat top center;
+}
+#steps2
+{
+background: url('service-2-1.png') no-repeat top center;
+}
+#steps3
+{
+background: url('service-3-1.png') no-repeat top center;
+}
+
+.bt1{
+    background-color: red;
+}
+.sms{
+    color: white;
+}
